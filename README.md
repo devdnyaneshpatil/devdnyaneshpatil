@@ -14,6 +14,13 @@
 
 - 📫 How to reach me *dnyaneshwarpatil830831@gmail.com*
 
+## Areas of Collaboration
+
+I'm interested in collaborating on:
+
+- **Web Development**: React, Node.js
+- **Open Source Projects**: Any interesting project in need of contributors
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://devdnyaneshpatil.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png" alt="Dnyaneshwar Patil" height="30" width="40" /></a>
